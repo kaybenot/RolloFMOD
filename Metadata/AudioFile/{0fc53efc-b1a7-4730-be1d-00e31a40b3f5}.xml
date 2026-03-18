@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{0fc53efc-b1a7-4730-be1d-00e31a40b3f5}">
+		<property name="assetPath">
+			<value>Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster).mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>213.18530612244899</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{485c979a-60b1-40eb-be1e-4ca054142a3c}</destination>
+		</relationship>
+	</object>
+</objects>

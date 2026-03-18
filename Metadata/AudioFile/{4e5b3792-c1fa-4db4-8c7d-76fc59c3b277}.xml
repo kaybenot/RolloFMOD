@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{4e5b3792-c1fa-4db4-8c7d-76fc59c3b277}">
+		<property name="assetPath">
+			<value>847272__highwaistedpants__wet-clay-thud.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.0600208333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{485c979a-60b1-40eb-be1e-4ca054142a3c}</destination>
+		</relationship>
+	</object>
+</objects>
