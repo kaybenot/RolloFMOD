@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{790811e9-8d3d-41bf-ad5f-469d4d349295}">
+		<property name="name">
+			<value>combat</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c5da9a83-8bbd-4f2b-b170-da44b0412da7}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{32441be6-273f-4609-b8d8-f53ed6e6f731}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{32441be6-273f-4609-b8d8-f53ed6e6f731}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{c53024b7-bde1-451e-aafe-1f586e885525}</destination>
+		</relationship>
+	</object>
+	<object class="SeekModulator" id="{c53024b7-bde1-451e-aafe-1f586e885525}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>cursorPosition</value>
+		</property>
+	</object>
+</objects>
