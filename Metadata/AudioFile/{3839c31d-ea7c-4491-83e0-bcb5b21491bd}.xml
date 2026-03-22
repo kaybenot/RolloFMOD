@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{3839c31d-ea7c-4491-83e0-bcb5b21491bd}">
+		<property name="assetPath">
+			<value>rolloperk - Trimmed (2).wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.2237414965986395</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{485c979a-60b1-40eb-be1e-4ca054142a3c}</destination>
+		</relationship>
+	</object>
+</objects>
